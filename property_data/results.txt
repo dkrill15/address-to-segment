@@ -1,0 +1,3 @@
+32494 unique addresses
+2160 rows were removed due to unclean zip codes
+0 rows were removed due to missing or invalid address numbers
